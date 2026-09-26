@@ -1,0 +1,9 @@
+{
+  "name": "拾荒纪元 · 残经",
+  "short_name": "拾荒纪元",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#12100c",
+  "theme_color": "#12100c",
+  "lang": "zh-CN"
+}
